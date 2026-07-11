@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 232" role="img" aria-label="Romain Goussu — Fullstack Web Developer · Tech Lead">
+<filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#e95420" flood-opacity="0.45"/></filter><defs><clipPath id="hero-clip"><rect x="0.5" y="0.5" width="879" height="231" rx="12"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="879" height="231" rx="12" fill="#300a24" stroke="#4d213f"/>
+<g clip-path="url(#hero-clip)">
+  <rect x="0" y="0" width="880" height="36" fill="#2c001e"/>
+  <line x1="0" y1="36.5" x2="880" y2="36.5" stroke="#4d213f"/>
+  <circle cx="24" cy="18" r="7" fill="#4d213f"/><circle cx="46" cy="18" r="7" fill="#4d213f"/><circle cx="68" cy="18" r="7" fill="#4d213f"/>
+  <text x="440" y="22.5" text-anchor="middle" font-family="'Ubuntu Mono', ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12" fill="#9a7f92">romain@goussu: ~ — tmux</text>
+</g>
+<text x="28" y="72" font-family="'Ubuntu Mono', ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8ae234" font-weight="700">❯</tspan><tspan fill="#729fcf"> ~ </tspan><tspan fill="#e95420" font-weight="700">whoami</tspan></text>
+<text x="28" y="121" font-family="Ubuntu, 'DejaVu Sans', Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff" filter="url(#glow)">Romain Goussu<tspan fill="#e95420" aria-hidden="true"> ▍<animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.05s" repeatCount="indefinite"/></tspan></text>
+<text x="28" y="152" font-family="'Ubuntu Mono', ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" fill="#8ae234" opacity="0.85"># Fullstack Web Developer · Tech Lead</text>
+<text x="28" y="190" font-family="'Ubuntu Mono', ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8ae234" font-weight="700">❯</tspan><tspan fill="#729fcf"> ~ </tspan><tspan fill="#e95420" font-weight="700">pwd</tspan></text>
+<text x="28" y="214" font-family="'Ubuntu Mono', ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" fill="#729fcf">~/france/île-de-france</text>
+</svg>
