@@ -19,18 +19,19 @@
 ### ❯ `cat summary.md`
 
 Fullstack engineer and Tech Lead with ~10 years across software publishers, consultancies and
-regulated sectors (finance, aviation, public services). I build and run microservice systems
-(hexagonal architecture, event-driven, design-by-contract) on a Java/Quarkus & Node back end with
-React/Angular front ends, and I lift teams through it — coaching, testing culture, CI/CD, and
-pragmatic cloud (AWS, Terraform). Equally at home extracting shared services from a monolith and
-mentoring engineers toward the state of the art.
+regulated sectors (asset management, investment banking, aviation, public services). I build and
+run microservice systems (hexagonal architecture, event-driven, design-by-contract) on a
+Java/Kotlin/Quarkus & Node back end with React/Angular front ends, and I lift teams through it —
+coaching, testing culture, CI/CD, and pragmatic cloud (AWS, Terraform). Most recently, I got a late,
+over-engineered trading platform back on track by simplifying it, and I help engineers adopt
+AI-assisted development — from team practices to an e-learning taken by 70+ engineers.
 
 ### ❯ `ls ~/skills`
 
-- **Back-end** — Java (8 → 21), Spring / Spring Boot, Quarkus (MicroProfile), Node.js (Express, Inversify), PostgreSQL, MongoDB, ArangoDB / graph databases
-- **Architecture & messaging** — Hexagonal architecture, Event-driven architecture, Design by contract, REST / gRPC, Kafka, RabbitMQ, Redis
-- **DevOps / Infra** — AWS (Cognito, CloudFront, App Runner, DynamoDB, Route 53, ACM, IAM), Terraform, Docker, GitLab CI, Jenkins, Ansible, Git
-- **Front-end** — React (Redux, MobX, Flux), Angular
+- **Back-end** — Java (8 → 21), Kotlin, Spring / Spring Boot, Quarkus (MicroProfile), Node.js (Express, Inversify), PostgreSQL, MongoDB, ArangoDB / graph databases
+- **Architecture & messaging** — Hexagonal architecture, Event-driven architecture, Design by contract, REST / gRPC, Kafka, RabbitMQ, WebSocket / STOMP, Redis
+- **DevOps / Infra** — AWS (Cognito, CloudFront, App Runner, DynamoDB, Route 53, ACM, IAM), Terraform, Docker, GitLab CI, Jenkins, Ansible, Git, Trunk-based development
+- **Front-end** — React (Redux, MobX, Flux), Angular, Micro-frontends
 
 ### ❯ `ls ~/open-source`
 
